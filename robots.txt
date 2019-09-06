@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geeroghahp.ienze.me/sitemap.xml
